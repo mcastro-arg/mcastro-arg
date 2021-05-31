@@ -22,7 +22,6 @@ And more...
 [![Twitter](https://img.shields.io/badge/Twitter-@mcastro\_arg-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/mcastro_arg)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mcastro)
-[![Web](https://img.shields.io/badge/My_Website-LosCastro.org-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://loscastro.org)
 
 ## Contact me:
 
