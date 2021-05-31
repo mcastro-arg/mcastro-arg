@@ -14,7 +14,7 @@
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
-[![Linux](https://img.shields.io/badge/Linux-232F3E?style=for-the-badge&logo=linux-aws&logoColor=white&labelColor=101010)]()
+[![Linux](https://img.shields.io/badge/Linux-232F3E?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]()
 </br>
 And more...
 
