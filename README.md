@@ -22,8 +22,7 @@ And more...
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcelo_Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/mcastro)
 </br>
-[![DevTo](https://img.shields.io/badge/dev.to-MCASTRO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]
-(https://dev.to/mcastro)
+
 
 
 ## Contact me:
@@ -42,4 +41,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![DevTo](https://img.shields.io/badge/dev.to-MCASTRO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)]
+(https://dev.to/mcastro)
 -->
